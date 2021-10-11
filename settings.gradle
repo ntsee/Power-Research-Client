@@ -1,0 +1,2 @@
+rootProject.name = "Power Research Client"
+include ':app'
